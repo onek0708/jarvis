@@ -84,5 +84,11 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 
+"added by me
+Plug 'sainnhe/sonokai'
+Plug 'https://github.com/mhinz/vim-startify'
+Plug 'majutsushi/tagbar'
+Plug 'ap/vim-css-color'
+
 " Initialize plugin system
 call plug#end()
